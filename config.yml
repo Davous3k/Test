@@ -1,0 +1,17 @@
+# CONFIG FILE FOR AIRDROPS
+# 
+# By spookyFalco
+#
+
+# DO NOT CHANGE THIS 
+CONFIG_VERSION: 2
+# DO NOT CHANGE THIS 
+
+options:
+  time_after_signal: 30
+  announce_drop: true
+  drop_location_offset: 5
+  items_per_drop: 3
+  fireworks_on_fall: true
+
+

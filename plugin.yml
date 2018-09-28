@@ -1,0 +1,17 @@
+name: Airdropy
+main: airdrops.Airdrops
+version: '1.1.0'
+author: Davo
+api-version: 1.13
+description: >
+             Allows you to drop supply packages to players
+commands:
+    airdrop:
+        description: Summon an airdrop
+    airdrops:
+        description: Summon an airdrop
+        
+permissions:
+  airdrops.*:
+    description: Allows access to all Airdrop commands
+    default: op
